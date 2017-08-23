@@ -23,7 +23,7 @@ h2 {
 	margin-top: -10px;
 	padding: 5px;
 	right: 0;
-	border: 2px solid black;
+	border: 1px solid black;
 	width: 50%;
 }
 
@@ -52,7 +52,7 @@ p {
 
 .box {
 	background-color: #7FFFD4;
-	border: 2px solid black;
+	border: 1px solid black;
 	min-width: 300px;
 	min-height: 200px;
 	padding:  10px;
